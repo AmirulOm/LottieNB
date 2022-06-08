@@ -1,7 +1,7 @@
 ## LottieNB - Lottie for Jupyter Notebooks
 
 This is a simple python package to embed the default 
-Lottie player in a Jupyter notebook.
+Lottie player in a Jupyter notebook. at the moment this library only worked on **JupyterLab** and **PyCharm** notebook
 
 ### Why does this exist?
 
